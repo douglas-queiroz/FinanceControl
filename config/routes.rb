@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
   root 'home#index'
+  get 'login' => 'home#login'
+  post 'login' => 'home#sign_in'
+
   resources :users
   resources :enterprises
   # The priority is based upon order of creation: first created -> highest priority.

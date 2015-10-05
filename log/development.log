@@ -4968,3 +4968,364 @@ Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-10-04 11:21:33 -0300
+
+
+Started GET "/login" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+Processing by HomeController#login as HTML
+  Rendered application/_import_head.html.erb (0.1ms)
+  Rendered home/login.html.erb (82.0ms)
+Completed 200 OK in 84ms (Views: 83.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/enterprises.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/scaffolds.self-34948f460c9b18925f79fa3fc1ac8a98313767c02fdfa0252e838b9720d2c415.css?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/enterprises.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-10-04 11:22:58 -0300
+
+
+Started GET "/login" for 127.0.0.1 at 2015-10-04 11:23:44 -0300
+Processing by HomeController#login as HTML
+  Rendered application/_import_head.html.erb (0.0ms)
+  Rendered home/login.html.erb (79.1ms)
+Completed 200 OK in 83ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/enterprises.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:23:44 -0300
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:23:44 -0300
+
+
+Started GET "/assets/scaffolds.self-34948f460c9b18925f79fa3fc1ac8a98313767c02fdfa0252e838b9720d2c415.css?body=1" for 127.0.0.1 at 2015-10-04 11:23:44 -0300
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:23:44 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-04 11:23:44 -0300
+
+
+Started GET "/assets/enterprises.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:23:45 -0300
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-04 11:23:45 -0300
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-04 11:23:45 -0300
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-04 11:23:45 -0300
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:23:45 -0300
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:23:45 -0300
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-10-04 11:23:45 -0300
+
+
+Started GET "/login" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+Processing by HomeController#login as HTML
+  Rendered application/_import_head.html.erb (0.0ms)
+  Rendered home/login.html.erb (87.2ms)
+Completed 200 OK in 91ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/enterprises.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/scaffolds.self-34948f460c9b18925f79fa3fc1ac8a98313767c02fdfa0252e838b9720d2c415.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/enterprises.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:14 -0300
+
+
+Started GET "/login" for 127.0.0.1 at 2015-10-04 11:24:58 -0300
+Processing by HomeController#login as HTML
+  Rendered application/_import_head.html.erb (0.1ms)
+  Rendered home/login.html.erb (117.0ms)
+Completed 200 OK in 126ms (Views: 119.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/enterprises.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:58 -0300
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:58 -0300
+
+
+Started GET "/assets/scaffolds.self-34948f460c9b18925f79fa3fc1ac8a98313767c02fdfa0252e838b9720d2c415.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:58 -0300
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/assets/enterprises.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-10-04 11:24:59 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-04 11:29:06 -0300
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+  Rendered application/_import_head.html.erb (0.0ms)
+  Rendered application/_import_body.html.erb (0.0ms)
+Completed 200 OK in 49ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+Processing by HomeController#index as HTML
+Redirected to http://localhost:3000/login
+Filter chain halted as :verify_login rendered or redirected
+Completed 302 Found in 9ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/login" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+Processing by HomeController#login as HTML
+  Rendered application/_import_head.html.erb (4.4ms)
+  Rendered home/login.html.erb (71.4ms)
+Completed 200 OK in 75ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/enterprises.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/scaffolds.self-34948f460c9b18925f79fa3fc1ac8a98313767c02fdfa0252e838b9720d2c415.css?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/enterprises.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2015-10-04 11:29:43 -0300
+
+
+Started GET "/" for 127.0.0.1 at 2015-10-04 15:59:31 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HomeController#index as HTML
+Redirected to http://localhost:3000/login
+Filter chain halted as :verify_login rendered or redirected
+Completed 302 Found in 28ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/login" for 127.0.0.1 at 2015-10-04 15:59:32 -0300
+Processing by HomeController#login as HTML
+  Rendered application/_import_head.html.erb (0.4ms)
+  Rendered home/login.html.erb (478.5ms)
+Completed 200 OK in 489ms (Views: 488.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/sign_in" for 127.0.0.1 at 2015-10-04 16:03:54 -0300
+Processing by HomeController#sign_in as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KDtuShforEC3ka0OT9/N2z+ezohmACM/ffPA7CADs1/FHhIzZrG+mFKUZr3F0xHJQ3j5++E3Pk4NSeHo6uwtWA==", "user"=>{"email"=>"teste", "password"=>"[FILTERED]"}}
+  [1m[35mUser Load (0.6ms)[0m  SELECT "users".* FROM "users" WHERE (login = NULL and password = 'teste')
+SQLite3::SQLException: no such column: login: SELECT "users".* FROM "users" WHERE (login = NULL and password = 'teste')
+Completed 500 Internal Server Error in 83ms (ActiveRecord: 0.6ms)
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: login: SELECT "users".* FROM "users" WHERE (login = NULL and password = 'teste')):
+  app/controllers/home_controller.rb:16:in `sign_in'
+
+
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (37.1ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (9.8ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (110.3ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_markup.html.erb (5.9ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.6ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/console.js.erb within layouts/javascript (75.3ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.8ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/web-console-2.2.1/lib/web_console/templates/index.html.erb (158.2ms)
+
+
+Started GET "/" for 192.168.20.1 at 2015-10-04 16:08:17 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by HomeController#index as HTML
+Redirected to http://192.168.20.139:3000/login
+Filter chain halted as :verify_login rendered or redirected
+Completed 302 Found in 10ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#index as HTML
+Redirected to http://192.168.20.139:3000/login
+Filter chain halted as :verify_login rendered or redirected
+Completed 302 Found in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/login" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#login as HTML
+  Rendered application/_import_head.html.erb (0.4ms)
+  Rendered home/login.html.erb (184.5ms)
+Completed 200 OK in 189ms (Views: 188.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/enterprises.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/scaffolds.self-34948f460c9b18925f79fa3fc1ac8a98313767c02fdfa0252e838b9720d2c415.css?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/enterprises.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/home.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/users.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 192.168.20.1 at 2015-10-04 16:08:18 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+
+
+Started POST "/sign_in" for 192.168.20.1 at 2015-10-04 16:08:36 -0300
+Cannot render console from 192.168.20.1! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by HomeController#sign_in as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"7kfLgm+IUx17YJ8mwX3Bcm5h/fCkLCiY5mKZ3LC93vxdk0okM3T/ZOiv6kD9qqqsTLwpd0+I9kx+MdfvVE6QNA==", "user"=>{"email"=>"teste", "password"=>"[FILTERED]"}}
+  [1m[35mUser Load (2.3ms)[0m  SELECT "users".* FROM "users" WHERE (login = NULL and password = '123123')
+SQLite3::SQLException: no such column: login: SELECT "users".* FROM "users" WHERE (login = NULL and password = '123123')
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 2.3ms)
+
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: login: SELECT "users".* FROM "users" WHERE (login = NULL and password = '123123')):
+  app/controllers/home_controller.rb:16:in `sign_in'
+
+
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_source.erb (9.8ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /usr/local/lib/ruby/gems/2.2.0/gems/actionpack-4.2.4/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (30.2ms)

@@ -1,4 +1,6 @@
 class HomeController < ApplicationController
+	before_action :verify_login, only: [:index] 
+	
 	def index
 
 	end

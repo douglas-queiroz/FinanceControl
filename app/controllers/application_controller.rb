@@ -4,7 +4,7 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   def verify_login
-    if session["user_name"].nil?
+    if session["username"].nil?
       redirect_to :controller => "home", :action => "login"
     end
   end

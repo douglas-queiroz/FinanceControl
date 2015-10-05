@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
   root 'home#index'
   get 'login' => 'home#login'
-  post 'login' => 'home#sign_in'
+  post 'sign_in' => 'home#sign_in'
+  post 'sign_out' => 'home#sign_out'
 
   resources :users
   resources :enterprises

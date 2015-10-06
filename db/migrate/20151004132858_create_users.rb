@@ -1,7 +1,7 @@
 class CreateUsers < ActiveRecord::Migration
-  def self.up
-    enterprise = Enterprise.find(:name => "Enterprise Adm")
-    User.create(:name => "Administrator", :email=>"admin@admin.com", :password => "change_your_pwd", :enterprise_id => enterprise.id)
+  def load_data
+    enterprise = Enterprise.where(name: Enterprise::ADM_NAME)[0]
+    User.create(:name => User::ADM_NAME, :email=> User::ADM_EMAIL, :password => User::ADM_PASSWD, :enterprise_id => enterprise.id)
   end
 
   def change
@@ -14,5 +14,7 @@ class CreateUsers < ActiveRecord::Migration
 
       t.timestamps null: false
     end
+
+    self.load_data
   end
 end

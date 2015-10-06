@@ -1,6 +1,6 @@
 class CreateEnterprises < ActiveRecord::Migration
-  def self.up
-  	Enterprise.create(:name => "Enterprise Adm")  
+  def load_data
+  	Enterprise.create(:name => Enterprise::ADM_NAME)  
   end
 
   def change
@@ -9,5 +9,7 @@ class CreateEnterprises < ActiveRecord::Migration
 
       t.timestamps null: false
     end
+
+    self.load_data
   end
 end

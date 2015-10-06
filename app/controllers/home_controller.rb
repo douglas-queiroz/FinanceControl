@@ -10,16 +10,19 @@ class HomeController < ApplicationController
 	end
 
 	def sign_in
-		login = params[:user][:login]
+		email = params[:user][:email]
 		password = params[:user][:password]
 
-		user = User.where("login = ? and password = ?", login, password)[0]
+		user = User.where(email: email, password: password)[0]
 
 		if user.nil?
+			flash[:notice] = "Senha ou email incorreto!"
 			redirect_to :controller => "home", :action => "login"	
 		else
 			session["user_id"] = user.id
 			session["user_name"] = user.name
+			session["user_email"] = user.email
+			session["enterprise_id"] = user.enterprise_id
 			redirect_to :controller => "home", :action => "index"
 		end
 	end

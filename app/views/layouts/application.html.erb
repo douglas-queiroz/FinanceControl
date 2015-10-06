@@ -8,7 +8,14 @@
   <%= render "import_head" %>
 </head>
 <body>
-	<%= yield %>
+	<div id="wrapper">
+		<%= render "navigation" %>
+		<div id="page-wrapper">
+		<%= yield %>
+		</div>
+	    <!-- /#page-wrapper -->
+	</div>
+	<!-- /#wrapper -->
 	<%= render "import_body" %>
 </body>
 </html>
